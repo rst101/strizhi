@@ -1,5 +1,5 @@
 # Table of contents
 
-* [🧡 About](README.md)
+* [🧡 О справочнике](README.md)
 * [🏥 Поликлиники](polikliniki.md)
 * [📞 Контакты](Contacts.md)
